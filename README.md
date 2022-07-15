@@ -11,9 +11,9 @@
 - Implement a HTTP request rate limit while fetching the API data
 
 
-To submit the results, please create a github repo and share the link.
+### 👉 To submit the results, please create a github repo and share the link.
 Additional information:
-- Additional points if all code deployed in docker with explanation and clear documentation.
+- Extra points if all code deployed in docker with explanation and 🗒️clear documentation.
 - Expected time to complete this task is 3-5 days.
 
-Please feel free to contact email for any concerns or doubts.
+🗨️ Please feel free to contact email for any concerns or doubts.
